@@ -42,7 +42,7 @@ Analyzed T20 World Cup match data to extract performance insights. Developed **m
 
 ## 📫 Contact Me
 - Email: raj.mohitthakur@gmail.com  
-- LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com/in/raj-mohit/)
+- LinkedIn: [linkedin.com/in/Mohit Raj](https://www.linkedin.com/in/raj-mohit/)
 
 ---
 
