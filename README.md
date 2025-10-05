@@ -26,6 +26,9 @@
 
 ## 📊 Projects
 
+### 🏏 [T20 World Cup Analysis](https://github.com/mr4121/T20_WorldCup)  
+Analyzed T20 World Cup match data to extract performance insights. Developed **metrics** to evaluate player and team performances using **Python (Pandas, Matplotlib)**.
+
 ### 🍕 [Pizza Sales Analysis](https://github.com/mr4121/Pizza-Sales)  
 Analyzed pizza sales data to uncover trends and insights. Built **interactive dashboards** to visualize sales performance using **SQL, Excel, and Power BI**.
 
@@ -34,9 +37,6 @@ Developed a **logistic regression model** to score and prioritize sales leads. A
 
 ### 🛒 [E-commerce Sales Analysis](https://github.com/mr4121/E-commerce-Sales-Analysis-using-Python)  
 Performed analysis on Diwali sales data to identify key sales drivers. Created **visualizations** to depict sales trends and customer behavior using **Python (Pandas, Matplotlib)**.
-
-### 🏏 [T20 World Cup Analysis](https://github.com/mr4121/T20_WorldCup)  
-Analyzed T20 World Cup match data to extract performance insights. Developed **metrics** to evaluate player and team performances using **Python (Pandas, Matplotlib)**.
 
 ---
 
