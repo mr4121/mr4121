@@ -1,7 +1,7 @@
 ### Hi there 👋, 
 # I'm Mohit Raj
 
-**Every number has a story; I help businesses uncover it**  by ransforming complex datasets into actionable insights using Python, SQL, Excel, and visualisation tools.
+**Every number has a story; I help businesses uncover it** by transforming complex datasets into actionable insights using Python, SQL, Excel, and visualisation tools.
 
 ---
 
