@@ -26,7 +26,7 @@
 
 ## 📊 Projects
 
-### 🏏 [Expert Teams – Gameplay Analysis & Tableau Dashboard](https://github.com/mr4121/Expert-Teams-Gameplay-Analysis-Tableau-Dashboard)
+### 📊 [Expert Teams – Gameplay Analysis & Tableau Dashboard](https://github.com/mr4121/Expert-Teams-Gameplay-Analysis-Tableau-Dashboard)
 Built Tableau funnels revealing user friction, directly driving the launch of Expert Teams. Developed post-launch dashboard for replacements, pick timing, and adoption of a feature contributing 20% of annual revenue.
 
 ### 🏏 [T20 World Cup Analysis](https://github.com/mr4121/T20_WorldCup)  
